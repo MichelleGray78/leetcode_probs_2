@@ -11,3 +11,6 @@ Write an algorithm to determine if a number n is happy. A happy number is a numb
 ### string_swap_string_equal: 
 You are given two strings s1 and s2 of equal length. A string swap is an operation where you choose two indices in a string (not necessarily different) and swap the characters at these indices.
 Return true if it is possible to make both strings equal by performing at most one string swap on exactly one of the strings. Otherwise, return false. 
+### single_number:
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+You must implement a solution with a linear runtime complexity and use only constant extra space.
